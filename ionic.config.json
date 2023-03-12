@@ -1,0 +1,7 @@
+{
+  "name": "olv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
